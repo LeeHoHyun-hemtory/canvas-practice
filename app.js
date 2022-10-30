@@ -32,6 +32,8 @@ class App {
 
 		requestAnimationFrame(this.animate.bind(this));
 	}
+
+	console.log('qwer')
 }
 
 window.onload = () => {
